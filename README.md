@@ -218,29 +218,3 @@ This project uses the [Fake Store API](https://fakestoreapi.com/):
 | `POST /products` | Create product (simulated) |
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/harshit0203">Harshit Sharma</a></p>
-  <p>
-    <a href="https://github.com/harshit0203/ShopHub/issues">Report Bug</a> •
-    <a href="https://github.com/harshit0203/ShopHub/issues">Request Feature</a>
-  </p>
-</div>

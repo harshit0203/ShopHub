@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>🛒 ShopHub</h1>
-  <p><strong>A modern e-commerce storefront built with Next.js 15, TypeScript, and TailwindCSS</strong></p>
+  <p><strong>An e-commerce storefront built with Next.js 15, TypeScript, and TailwindCSS</strong></p>
   <p>
     <a href="#features">Features</a> •
     <a href="#demo">Demo</a> •
